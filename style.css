@@ -53,7 +53,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .container div{
     width:60%;
-    font-size:40px;
+    font-size:30px;
 }
 .container div h1{
     line-height: 90%;
@@ -648,6 +648,24 @@ footer{
         padding: 7% 0px 5% 0px;
         display: block;
         justify-content:center;
+    }
+    .container1 h1{
+        font-size: 30px;
+    }
+    .container h1{
+        font-size: 50px;
+    }
+     .container3 h1{
+        font-size: 30px;
+    }
+     .cnt5_1 h1{
+        font-size: 25px;
+    }
+     .container6 h1{
+        font-size: 30px;
+    }
+     .container8 h1{
+        font-size: 30px;
     }
     .box{
         display:block;
